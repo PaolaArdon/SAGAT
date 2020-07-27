@@ -1,4 +1,4 @@
-# Package created after Michael Burke's adaptation from Travis Dewolf's blog. Recorded motions for PR2: pouring, stacking, handing over and shaking
+### Package created after Michael Burke's adaptation from Travis Dewolf's blog. Recorded motions for PR2: pouring, stacking, handing over and shaking
 
 # dmp_imitation
 
